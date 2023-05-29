@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/mrifadlli-portfolio/static/css/main.bd305ea4.css",
+    "main.js": "/mrifadlli-portfolio/static/js/main.29a178ab.js",
+    "static/media/theMenus.png": "/mrifadlli-portfolio/static/media/theMenus.c3aba9b3b957a8f9018e.png",
+    "static/media/layoutHero.png": "/mrifadlli-portfolio/static/media/layoutHero.44cb500dd6ebe0026abb.png",
+    "static/media/minimalism.png": "/mrifadlli-portfolio/static/media/minimalism.9f33cdab7d0f58abb4b3.png",
+    "static/media/easyRent.png": "/mrifadlli-portfolio/static/media/easyRent.a6e3862f16f38e342520.png",
+    "static/media/me.jpg": "/mrifadlli-portfolio/static/media/me.06e0494dd234458ffa2a.jpg",
+    "static/media/suwitJepang.png": "/mrifadlli-portfolio/static/media/suwitJepang.19aba1d5d0cfa61eda57.png",
+    "static/media/react.png": "/mrifadlli-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/loginPage.png": "/mrifadlli-portfolio/static/media/loginPage.72c8e5745ebed8c99c45.png",
+    "static/media/github.png": "/mrifadlli-portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/mrifadlli-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/mrifadlli-portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/mrifadlli-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/mrifadlli-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/mrifadlli-portfolio/index.html",
+    "main.bd305ea4.css.map": "/mrifadlli-portfolio/static/css/main.bd305ea4.css.map",
+    "main.29a178ab.js.map": "/mrifadlli-portfolio/static/js/main.29a178ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd305ea4.css",
+    "static/js/main.29a178ab.js"
+  ]
+}
