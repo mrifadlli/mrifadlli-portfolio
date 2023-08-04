@@ -7,7 +7,7 @@ import react from "../assets/react.png";
 import tailwind from "../assets/tailwind.png";
 import vue from "../assets/vue.png";
 import bootstrap from "../assets/bootstrap.png";
-import nodejs from "../assets/nodeJs.png";
+import express from "../assets/express.png";
 
 const Experience = () => {
   const techs = [
@@ -61,9 +61,9 @@ const Experience = () => {
     },
     {
       id: 9,
-      src: nodejs,
-      title: "Node Js",
-      style: "shadow-green-400",
+      src: express,
+      title: "Express Js",
+      style: "shadow-gray-400",
     },
   ];
   return (
