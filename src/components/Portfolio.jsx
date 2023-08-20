@@ -83,7 +83,7 @@ const Portfolio = () => {
           ))}
         </div>
         <div className="md:mt-11 mt-10 md:mx-auto px-12 sm:px-0 container">
-          <p className="text-4xl text-gray-300 p-2 font-bold border-b-2 border-[#eeeeee] w-full">
+          <p className="md:text-4xl text-2xl text-gray-300 p-2 font-bold border-b-2 border-[#eeeeee] w-full">
             Latest Project
           </p>
           <div className="shadow-md shadow-gray-600 rounded-lg mt-7">
