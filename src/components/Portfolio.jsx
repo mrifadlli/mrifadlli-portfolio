@@ -6,6 +6,7 @@ import easyRent from "../assets/portfolio/easyRent.png";
 import hero from "../assets/portfolio/layoutHero.png";
 import menu from "../assets/portfolio/theMenus.png";
 import mealshunter from "../assets/portfolio/mealshunter.png";
+import cashier from "../assets/portfolio/cashier.png";
 import { PiArrowSquareInBold } from "react-icons/pi";
 
 const Portfolio = () => {
@@ -86,25 +87,40 @@ const Portfolio = () => {
             Latest Project
           </p>
           <div className="shadow-md shadow-gray-600 rounded-lg mt-7">
-            <div className="">
-              <a
-                href="https://mealshunter-mrifadlli.vercel.app/"
-                target="_blank"
-                rel="noreferrer"
-              >
-                <img
-                  src={mealshunter}
-                  alt=""
-                  className="rounded-md duration-200 hover:scale-105 cursor-pointer"
-                />
-              </a>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-9">
+              <div className="">
+                <a
+                  href="https://mealshunter-mrifadlli.vercel.app/"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <img
+                    src={mealshunter}
+                    alt=""
+                    className="rounded-md duration-200 hover:scale-105 cursor-pointer"
+                  />
+                </a>
+              </div>
+              <div className="">
+                <a
+                  href="https://cashier-mrifadlli.vercel.app/"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <img
+                    src={cashier}
+                    alt=""
+                    className="rounded-md duration-200 hover:scale-105 cursor-pointer"
+                  />
+                </a>
+              </div>
             </div>
-            <div className="flex justify-center items-center py-8">
+            <div className="flex justify-center items-center md:py-6 py-6 ">
               <a
                 href="https://mealshunter-mrifadlli.vercel.app/"
                 target="_blank"
                 rel="noreferrer"
-                className="bg-gray-800 py-2 text-gray-300 text-lg tracking-wide px-9 rounded hover:scale-95 duration-200 flex items-center text-center gap-2"
+                className="bg-gray-800 md:py-2 px-5 py-2 text-gray-300 text-lg tracking-wide md:px-9 rounded hover:scale-95 duration-200 flex items-center text-center gap-2"
               >
                 View
                 <PiArrowSquareInBold />
